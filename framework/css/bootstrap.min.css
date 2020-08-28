@@ -1,3 +1,71 @@
+.top {
+	background-color: #FF4500;
+	background-size: 100% 100%;
+	height: 80px;
+	width: 100%;
+	display: inline-flex;
+	overflow: hidden;
+	position: fixed;
+	  top: 0;
+	  left: 0;
+	  z-index: 9999;
+	  width: 100%;
+}
+.logo {
+	padding-top: 5px;
+	padding-bottom: 9px;
+	margin-left: 20px;
+	height: 82.5px;
+	width: 80px;
+}
+
+.hal-utama {
+	margin-left: 30px;
+	margin-top: 4.5vh;
+}
+.hal-utama p {
+	color: white;
+	font-size: 18px;
+	font-family: arial;
+	font-weight: bold;
+	letter-spacing: .1vw;
+}
+.hal-utama a {
+	color: white;
+	text-decoration: none;
+}
+.hal-utama a:hover {
+	color: white;
+	text-decoration: none;
+}
+.about-us button {
+	background-color: transparent;
+	border: transparent;
+	margin-left: 20px;
+}
+.about {
+	line-height: 10px;
+	background-color: transparent;
+	border : transparent;
+	color: white;
+	margin-top: 5vh;
+	font-size: 18px;
+	font-family: arial;
+	font-weight: bold;
+	letter-spacing: .1vw;
+	width: 190px;
+}
+.about a {
+	color: white;
+	text-decoration: none;
+}
+.about a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+
+
 .navbar-dark {
 	background-color: #FF4500;
 }
@@ -13,6 +81,8 @@
 .batas {
 	background-color: #FF4500;
 }
+
+
 
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
