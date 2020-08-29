@@ -458,7 +458,7 @@ form.example button:hover {
 	}
 	.dropdown-child a {
 	    color: black;
-	    padding-left: 8.5px;
+	    padding-left: 3px;
 	    border-bottom: 2px solid grey;
 	    text-decoration: none;
 	    display: block;
@@ -484,7 +484,7 @@ form.example button:hover {
 		background-color: transparent;
 		border : transparent;
 		color: white;
-		margin-top: 18px;
+		margin-top: 20px;
 		font-size: 14px;
 		font-family: arial;
 		font-weight: bold;
@@ -537,7 +537,7 @@ form.example button:hover {
 	border-radius: 2em;
 	border : transparent;
 	padding: 10px;
-	right: 27vw;
+	right: 31vw;
 	position: absolute;
 	top : 330px;
 	color: white;
