@@ -66,10 +66,10 @@ span {
 	padding-right: 8px;
 	font-size: 18px;
 }
-.instagram {
+.tentang-kami {
 	margin-left: 43%;
 }
-.ig {
+.team {
 	line-height: 10px;
 	background-color: transparent;
 	border : transparent;
@@ -81,7 +81,10 @@ span {
 	letter-spacing: .1vw;
 	width: 190px;
 }
-.ig a {
+.team a:hover {
+	color: black;
+}
+.team a {
 	text-decoration: none;
 	color: white;
 }
@@ -228,7 +231,7 @@ form.example button:hover {
 
 
 @media (max-width: 1204px){
-	.instagram {
+	.tentang-kami {
 		margin-left: 36%;
 	}
 	.dropdown-child {
@@ -251,7 +254,7 @@ form.example button:hover {
 }
 
 @media (max-width: 1057px){
-	.instagram {
+	.tentang-kami {
 		margin-left: 25%;
 	}
 	.dropdown-child {
@@ -281,7 +284,7 @@ form.example button:hover {
 }
 
 @media (max-width: 888px){
-	.instagram {
+	.tentang-kami {
 		margin-left: 10%;
 	}
 	.main {
@@ -322,7 +325,7 @@ form.example button:hover {
 }
 
 @media (max-width: 732px){
-	.instagram {
+	.tentang-kami {
 		float: right;
 		margin-left: 19%;
 	}
@@ -357,7 +360,7 @@ form.example button:hover {
 	color: white;
 	font-size: 2.18vw;
 	}
-	.ig {
+	.team {
 	font-size: 18px;
 	font-family: arial;
 	font-weight: bold;
@@ -386,7 +389,7 @@ form.example button:hover {
 	}
 	.desksman .smandel {
 		float: left;
-		width: 60px;
+		width: 66.5px;
 		height: 70px;
 	}
 	.desksman p {
@@ -476,10 +479,10 @@ form.example button:hover {
 		padding-right: 8px;
 		font-size: 16px;
 	}
-	.instagram {
+	.tentang-kami {
 		margin-left: 3%;
 	}
-	.ig {
+	.team {
 		line-height: 10px;
 		background-color: transparent;
 		border : transparent;
@@ -491,7 +494,7 @@ form.example button:hover {
 		letter-spacing: .1vw;
 		width: 190px;
 	}
-	.ig a {
+	.team a {
 		text-decoration: none;
 		color: white;
 	}
@@ -585,7 +588,7 @@ form.example button:hover {
 	}
 	.desksman .smandel {
 		float: left;
-		width: 40px;
+		width: 47px;
 		height: 50px;
 	}
 	.desksman p {
