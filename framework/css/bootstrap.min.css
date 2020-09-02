@@ -48,12 +48,16 @@
 	background-color: transparent;
 	border : transparent;
 	color: white;
-	margin-top: 5vh;
+	margin-top: 4.3vh;
 	font-size: 18px;
 	font-family: arial;
 	font-weight: bold;
 	letter-spacing: .1vw;
 	width: 190px;
+}
+.about span {
+	font-size: 25px;
+	font-weight: bold;
 }
 .about a {
 	color: white;
@@ -114,6 +118,10 @@
 	color: white;
 	background-color: transparent;
 	width: 150px;
+	}
+	.about span {
+	font-size: 17px;
+	font-weight: bold;
 	}
 	.about-us button {
 	margin-top: 0px;

@@ -120,7 +120,7 @@ form.example button:hover {
 	height: 550px;
 	width: 100%;
 	margin: 0px;
-	background-image:url(background.png);
+	background-image:url(../../img/background.png);
 	background-size: 85% 100%;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -246,7 +246,7 @@ form.example button:hover {
 	height: 550px;
 	width: 100%;
 	margin: 0px;
-	background-image:url(background.png);
+	background-image:url(../../img/background.png);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -291,7 +291,7 @@ form.example button:hover {
 	height: 500px;
 	width: 100%;
 	margin: 0px;
-	background-image:url(background.png);
+	background-image:url(../../img/background.png);
 	background-size: 95% 105%;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -344,7 +344,7 @@ form.example button:hover {
 	height: 480px;
 	width: 100%;
 	margin: 0px;
-	background-image:url(background.png);
+	background-image:url(../../img/background.png);
 	background-size: 100% 80%;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -530,7 +530,7 @@ form.example button:hover {
 	height: 440px;
 	width: 100%;
 	margin: 0px;
-	background-image:url(background.png);
+	background-image:url(../../img/background.png);
 	background-size: 110% 70%;
 	background-repeat: no-repeat;
 	background-position: center;

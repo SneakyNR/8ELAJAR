@@ -10,9 +10,9 @@ if (empty($name) || empty($email) || empty($message))
 }
 else 
 {
-	mail("8elajar@webname.com", "Tanggapan", $message,"From : $name <$email>");
-	echo "<script type='text/javascript'>alert('Your Message Success');
-		window.history.log(-1);
+	mail("8elajar@technologist.com", "Website Respon", $message,"From : $name <$email>");
+	echo "<script type='text/javascript'>alert('Thank You For Your Message 😍');
+		window.history.back();
 	</script>";
 }
 ?>
